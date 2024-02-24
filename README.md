@@ -38,7 +38,7 @@ Searching can be performed in various domains and contexts, including everyday t
 
 -----
 
-## 👉🏻 Sorting Algorithms:
+## 👉🏻 Searching Algorithms:
 
 1. [Linear Search]()
 2. [Binary Search]()
