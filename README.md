@@ -40,6 +40,35 @@ Searching can be performed in various domains and contexts, including everyday t
 
 ## 👉🏻 Sorting Algorithms:
 
-
+1. [Linear Search]()
+2. [Binary Search]()
+3. [Jump Search]()
+4. [Interpolation Search]()
+5. [Exponential Search]()
+6. [Fibonacci Search]()
+7. [Ternary Search]()
+8. [Depth-First Search (DFS)]()
+9. [Breadth-First Search (BFS)]()
+10. [Uniform Cost Search (UCS)]()
+11. [Bidirectional Search]()
+12. [Best-First Search]()
+13. [A* Search]()
+14. [Dijkstra's Algorithm]()
+15. [Bellman-Ford Algorithm]()
+16. [Floyd-Warshall Algorithm]()
+17. [Kruskal's Algorithm]()
+18. [Prim's Algorithm]()
+19. [Greedy Search]()
+20. [Hill Climbing]()
+21. [Simulated Annealing]()
+22. [Genetic Algorithm]()
+23. [Tabu Search]()
+24. [Ant Colony Optimization (ACO)]()
+25. [Particle Swarm Optimization (PSO)]()
+26. [Binary Space Partitioning (BSP)]()
+27. [R-tree]()
+28. [K-d tree]()
+29. [B-tree]()
+30. [B*-tree]()
 
 -----
